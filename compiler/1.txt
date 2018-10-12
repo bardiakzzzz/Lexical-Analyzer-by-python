@@ -1,0 +1,9 @@
+a ="sdf"
+c = ""
+b = """
+ejksnw;
+ klrvm
+ kglj """
+d = 3
+#dert
+x = "s"
